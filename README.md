@@ -5,12 +5,12 @@
    lscambo13 @ xda-developers && Dante63 @ xda-developers
 ------------------------------------------------------------
 ------------------------------------------------------------
-Disclaimer:	By installing this module you agree that I shall
-			not not be held responsible for any sort of dam-
-			age caused to your phone's hardware or to your 
-			ears for that matter.
+Disclaimer:	By installing this module you agree that I
+		shall not not be held responsible for any
+		sort of damage caused to your phone's
+		hardware or to your ears for that matter.
 			
-			PROCEED AT YOUR OWN RISK!!
+		       PROCEED AT YOUR OWN RISK!!
 ------------------------------------------------------------
 ------------------------------------------------------------
 
