@@ -52,6 +52,6 @@ Changelog: 	First Build
 -----------------------------------------------------------
 
 To-Do:	v2.x
-		Add support for more devices (maybe land?)
+	Add support for more devices (maybe land?)
 
 
