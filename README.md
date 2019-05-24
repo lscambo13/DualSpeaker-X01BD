@@ -10,8 +10,8 @@ Disclaimer:	By installing this module you agree that I
 		shall not not be held responsible for any
 		sort of damage caused to your phone's
 		hardware or to your ears for that matter.
-			
-		       PROCEED AT YOUR OWN RISK!!
+		
+		PROCEED AT YOUR OWN RISK!!
 ------------------------------------------------------------
 ------------------------------------------------------------
 
@@ -35,7 +35,7 @@ Changelog:	Initial Public Release
 
 Update: v0.3 (Closed Beta)
 
-Changelog: 
+Changelog:	Increased volume a bit
 
 -----------------------------------------------------------
 
@@ -53,6 +53,7 @@ Changelog: 	First Build
 -----------------------------------------------------------
 
 To-Do:	v2.x
+
 	Add support for more devices (maybe land?)
 
 
