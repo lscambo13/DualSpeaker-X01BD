@@ -21,7 +21,7 @@ Systemless Way of Enabling DualSpeaker/PseudoStereo SoundMod
 for Asus Zenfone Max pro M2 (X01BD).
 
 Tested on HavocOS 2.5; Expected to work on stock rom as well
-(Further testing stll needed).
+(Further testing still needed).
 
 ------------------------------------------------------------
 ------------------------------------------------------------
