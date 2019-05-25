@@ -1834,7 +1834,7 @@
         <ctl name="EAR PA Gain" value="POS_6_DB" />
         <ctl name="EAR_S" value="Switch" />
 		
-		<ctl name="RX1 Digital Volume" value="97" />
+		<ctl name="RX1 Digital Volume" value="95" />
 	<!-- lscambo13 end -->
     </path>
 	
