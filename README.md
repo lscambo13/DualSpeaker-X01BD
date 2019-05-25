@@ -2,10 +2,7 @@
  DualSpeaker Mod for Asus Zenfone Max pro M2 (X01BD/ZB630KL)
 ------------------------------------------------------------
 
-Author: lscambo13 @ xda-developers
-------------------------------------------------------------
-Special Thanks: Dante63 @ xda-developers
-------------------------------------------------------------
+
 Disclaimer:	By installing this module you agree that I
 		shall not not be held responsible for any
 		sort of damage caused to your phone's
@@ -24,6 +21,9 @@ Tested on HavocOS 2.5; Expected to work on stock rom as well
 (Further testing still needed).
 
 ------------------------------------------------------------
+Author: lscambo13 @ xda-developers
+------------------------------------------------------------
+Special Thanks: Dante63 @ xda-developers
 ------------------------------------------------------------
 
 Update: v1.0
