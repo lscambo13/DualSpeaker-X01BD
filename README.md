@@ -5,6 +5,7 @@ Author: lscambo13 @ xda-developers
 
 Special Thanks: Dante63 @ xda-developers
 
+
 Disclaimer:	By installing this module you agree that I
 		shall not not be held responsible for any
 		sort of damage caused to your phone's
@@ -26,6 +27,7 @@ Tested on HavocOS 2.5; Expected to work on stock rom as well
 Update: v1.0
  
 Changelog:	Initial Public Release
+
 Download: https://drive.google.com/file/d/1WvclpdzlptsN1VGU650uPbSEf1IeJtzT/view?usp=sharing
 
 ------------------------------------------------------------
