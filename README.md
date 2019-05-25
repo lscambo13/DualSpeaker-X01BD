@@ -56,4 +56,4 @@ To-Do:	v2.x
 
 
 -----------------------------------------------------------
-
+XDA Thread: https://forum.xda-developers.com/max-pro-m2/themes/soundmod-dualspeaker-x01bd-t3933610
