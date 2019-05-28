@@ -24,9 +24,9 @@ Tested on HavocOS 2.5; Expected to work on stock rom as well
 
 ------------------------------------------------------------
 
-Update: v1.1
+Update: v1.x
  
-Changelog:	Reduced volume to avoid distortion on high volume
+Changelog:	x
 
 Download: 
 
