@@ -24,9 +24,10 @@ Tested on HavocOS 2.5; Expected to work on stock rom as well
 
 ------------------------------------------------------------
 
-Update: v1.x
+Update: v1.1-beta
  
-Changelog:	x
+Changelog:	Fixed sound distortion on high volumes
+		Improved sound quality a bit
 
 Download: 
 
