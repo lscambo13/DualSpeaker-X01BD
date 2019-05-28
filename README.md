@@ -26,16 +26,21 @@ Tested on HavocOS 2.5; Expected to work on stock rom as well
 
 Update: v1.1-beta
  
-Changelog:	Fixed sound distortion on high volumes
-		Improved sound quality a bit
+Changelog:	
 
-Download: 
+	1. Fixed sound distortion on high volumes
+
+	2. Improved sound quality a bit
+
+Download: https://drive.google.com/open?id=178lengNRF_CJJw1RbH9fTYBTgfML6AdX
 
 ------------------------------------------------------------
 
 Update: v1.0
  
-Changelog:	Initial Public Release
+Changelog:	
+	
+	Initial Public Release
 
 Download: https://drive.google.com/file/d/1WvclpdzlptsN1VGU650uPbSEf1IeJtzT/view?usp=sharing
 
@@ -43,19 +48,25 @@ Download: https://drive.google.com/file/d/1WvclpdzlptsN1VGU650uPbSEf1IeJtzT/view
 
 Update: v0.3 (Closed Beta)
 
-Changelog:	Increased volume a bit
+Changelog:	
+
+	Increased volume a bit
 
 -----------------------------------------------------------
 
 Update: v0.2 (Closed Beta)
 
-Changelog:	Enable Mono on receiver speaker (testing)
+Changelog:	
+	
+	Enable Mono on receiver speaker (testing)
 
 -----------------------------------------------------------
 
 Update: v0.1 (Closed Beta)
 
-Changelog: 	First Build
+Changelog: 	
+	
+	First Build
 
 -----------------------------------------------------------
 
