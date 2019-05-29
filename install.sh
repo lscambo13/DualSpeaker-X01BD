@@ -124,8 +124,8 @@ print_modname() {
   ui_print "+    Asus Zenfone Max pro M2 (X01BD)     +"
   ui_print "+________________________________________+"
   ui_print "+         By lscambo13 & Dante63         +"
-  ui_print "+---------- Version : 1.1 BETA ----------+"
-  ui_print "+-------------- 28/05/2019 --------------+"
+  ui_print "+---------- Version : 1.2 BETA ----------+"
+  ui_print "+-------------- 29/05/2019 --------------+"
   ui_print "+________________________________________+"
 }
 
