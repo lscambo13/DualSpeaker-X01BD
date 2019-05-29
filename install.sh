@@ -119,12 +119,14 @@ REPLACE="
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "************************************"
-  ui_print "* DualSpeaker Mod for Asus Zenfone *"
-  ui_print "*    Max pro M2 (X01BD/ZB630KL)    *"
-  ui_print "************************************"
-  ui_print "*      By lscambo13 & Dante63      *"
-  ui_print "************************************"
+  ui_print "+----------------------------------------+"
+  ui_print "+          -<DualSpeaker Mod>-           +"
+  ui_print "+    Asus Zenfone Max pro M2 (X01BD)     +"
+  ui_print "+________________________________________+"
+  ui_print "+         By lscambo13 & Dante63         +"
+  ui_print "+---------- Version : 1.1 BETA ----------+"
+  ui_print "+-------------- 28/05/2019 --------------+"
+  ui_print "+________________________________________+"
 }
 
 # Copy/extract your module files into $MODPATH in on_install.
@@ -132,8 +134,12 @@ print_modname() {
 on_install() {
   # The following is the default implementation: extract $ZIPFILE/system to $MODPATH
   # Extend/change the logic to whatever you want
+if [[ $(getprop ro.product.device | grep .. || getprop ro.build.product) == X01BD ]] && [[ $API -ge 28 ]]; then
   ui_print "- Extracting module files"
-  unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
+	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
+else
+	cancel "Unsupported Device or API!"
+  fi
 }
 
 # Only some special files require specific permissions
