@@ -126,7 +126,6 @@ print_modname() {
   ui_print "+         By lscambo13 & Dante63         +"
   ui_print "+---------- Version : 1.2 BETA ----------+"
   ui_print "+-------------- 29/05/2019 --------------+"
-  ui_print "+________________________________________+"
 }
 
 # Copy/extract your module files into $MODPATH in on_install.
@@ -156,6 +155,9 @@ set_permissions() {
   # set_perm  $MODPATH/system/etc/mixer_paths.xml
   # the permissions are --- rw- r-- r-- which is 0644
   set_perm  $MODPATH/system/vendor/etc/mixer_paths.xml       0       0       0644
+  ui_print "+----------------------------------------+"
+  ui_print "+          R E B O O T  N O W !          +"
+  ui_print "+----------------------------------------+"
 }
 
 # You can add more functions to assist your custom script code
