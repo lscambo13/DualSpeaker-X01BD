@@ -24,7 +24,7 @@ Tested on HavocOS 2.5; Expected to work on stock rom as well
 
 ------------------------------------------------------------
 
-Update: v1.15-beta
+Update: v1.2-beta
  
 Changelog:	
 
