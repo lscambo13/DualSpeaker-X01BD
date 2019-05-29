@@ -135,7 +135,7 @@ on_install() {
   # The following is the default implementation: extract $ZIPFILE/system to $MODPATH
   # Extend/change the logic to whatever you want
 if [[ $(getprop ro.product.device | grep .. || getprop ro.build.product) == X01BD ]] && [[ $API -ge 28 ]]; then
-  ui_print "- Extracting module files"
+  ui_print "Supported device found. Installing..."
 	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
 else
 	cancel "Unsupported Device or API!"
