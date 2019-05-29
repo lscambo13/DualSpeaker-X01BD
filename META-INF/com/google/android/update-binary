@@ -14,9 +14,9 @@ mkdir -p $TMPDIR
 ui_print() { echo "$1"; }
 
 require_new_magisk() {
-  ui_print "***********************************"
-  ui_print " Please install the latest Magisk! "
-  ui_print "***********************************"
+  ui_print "+----------------------------------------+"
+  ui_print "+    Please install the latest Magisk!   +"
+  ui_print "+----------------------------------------+"
   exit 1
 }
 
@@ -81,9 +81,9 @@ MODPATH=$MODULEROOT/$MODID
 
 print_modname
 
-ui_print "******************************"
-ui_print "Powered by Magisk (@topjohnwu)"
-ui_print "******************************"
+ui_print "+----------------------------------------+"
+ui_print "+     Powered by Magisk (@topjohnwu)     +"
+ui_print "+----------------------------------------+"
 
 ##########################################################################################
 # Install
