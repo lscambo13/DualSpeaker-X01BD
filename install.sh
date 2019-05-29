@@ -161,3 +161,7 @@ set_permissions() {
 }
 
 # You can add more functions to assist your custom script code
+cancel() {
+  imageless_magisk || unmount_magisk_image
+  abort "$1"
+}
